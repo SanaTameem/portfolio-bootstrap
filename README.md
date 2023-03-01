@@ -69,12 +69,12 @@ npm install
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
+
+## 👥 Authors <a name="authors"></a>
 👤 **Sana Tameem**
 - GitHub: [@githubhandle](https://github.com/SanaTameem)
 - Twitter: [@twitterhandle](https://twitter.com/sana_tameem)
 - LinkedIn: [LinkedIn](http://linkedin.com/in/sana-tameem-a63b55240)
-
-## 👥 Authors <a name="authors"></a>
 
 👤 **Abel Tsegaye**
 

@@ -23,13 +23,14 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Portfolio] <a name="about-project"></a>
+# 📖 [portfolio-bootstrap] <a name="about-project"></a>
 
-**[Portfolio]** is my second repository at Microverse.
+**[portfolio-bootstrap]** is my first bootstrap project at Microverse.
 
 ## 🛠 Built With <a name="built-with"></a>
 HTML
 CSS
+Bootstrap
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
@@ -73,13 +74,21 @@ npm install
 - Twitter: [@twitterhandle](https://twitter.com/sana_tameem)
 - LinkedIn: [LinkedIn](http://linkedin.com/in/sana-tameem-a63b55240)
 
+## 👥 Authors <a name="authors"></a>
+
+👤 **Abel Tsegaye**
+
+- GitHub: [@githubhandle](https://github.com/abeltsew)
+- Twitter: [@twitterhandle](https://twitter.com/abeltsew)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/abeltsew)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[Desktop Version Changes]**
+- [ ] **[Adding Videos for projects]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
